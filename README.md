@@ -19,3 +19,9 @@ docker build -t eskalate-assignment .
 Run tests:
 
 docker run --rm eskalate-assignment
+
+## Bug Explanation
+
+For details about the bug and the fix, see:
+
+[doc/EXPLANATION.md](doc/EXPLANATION.md)
